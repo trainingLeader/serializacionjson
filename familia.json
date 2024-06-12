@@ -1,0 +1,25 @@
+{
+  "apellido": "Gomez",
+  "miembros": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "edad": 45
+    },
+    {
+      "id": 2,
+      "nombre": "Ana",
+      "edad": 42
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos",
+      "edad": 18
+    },
+    {
+      "id": 4,
+      "nombre": "Lucia",
+      "edad": 16
+    }
+  ]
+}
